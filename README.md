@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PHMesquita97
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning html5
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @PHMesquita97, I work on a cruise ship and am studying web programming.
+- 👀 I’m interested in learning HTML5, CSS and JavaScript
+- 🌱 I’m currently learning html5, CSS and JavaScript
 - 📫 How to reach me phmbraga@hotmail.com
 
 <!---
